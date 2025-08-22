@@ -1,0 +1,1 @@
+This repo contains the MATLAB scripts that were used to generate the plots in the paper titled "Correlation thresholds in the steady states of particle systems and spin glasses" by Jacob Calvert and Dana Randall.
